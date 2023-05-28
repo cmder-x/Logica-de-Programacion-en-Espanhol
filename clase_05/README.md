@@ -1,4 +1,4 @@
-# Clase #5 - Qué son algoritmos y cómo construir algoritmos desde cero
+# Clase \#5 - Qué son los algoritmos y cómo construir algoritmos desde cero
 
 1. Qué son Algoritmos?
     
