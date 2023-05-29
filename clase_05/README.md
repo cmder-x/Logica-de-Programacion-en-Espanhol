@@ -15,18 +15,18 @@
     1. Cuando encuentras un problema a resolver.
 ___
 
-## Método de las <mark title="Son cinco q's, porque en portugués, las palabras como 'cual' se escriben con Q">5Q's</mark> para construir un **algoritmo**:
+## Método de las [<span title="Son cinco q's, porque en portugués, las palabras como 'cual' se escriben con Q">5Q's</span>](#método-de-las-5qs-para-construir-un-algoritmo) para construir un **algoritmo**:
 
 
 
 Analiza el problema de manera crítica:
 (Intenta explicar el problema para ti mismo\(a\) en **voz alta**, luego pide más información y/o investiga hasta que comprendas el problema en su totalidad.)
 
-1. **<mark title="Quais">Cuáles</mark> son los datos de entrada necesários?**
-1. **<mark title="O qué">Qué</mark> debo hacer con estos datos?**
-1. **<mark title="Quais">Cuáles</mark> son las restricciones de este problema?**
-1. **<mark title="Qual">Cuál</mark> es el resultado esperado?**
-1. **<mark title="Qual">Cuál</mark> es la secuencia de pasos a seguir para llegar al resultado esperado?**
+1. **[<span title="Quais">Cuáles</span>](#método-de-las-5qs-para-construir-un-algoritmo) son los datos de entrada necesários?**
+1. **[<span title="O qué">Qué</span>](#método-de-las-5qs-para-construir-un-algoritmo) debo hacer con estos datos?**
+1. **[<span title="Quais">Cuáles</span>](#método-de-las-5qs-para-construir-un-algoritmo) son las restricciones de este problema?**
+1. **[<span title="Qual">Cuál</span>](#método-de-las-5qs-para-construir-un-algoritmo) es el resultado esperado?**
+1. **[<span title="Qual">Cuál</span>](#método-de-las-5qs-para-construir-un-algoritmo) es la secuencia de pasos a seguir para llegar al resultado esperado?**
 
 ___
 
@@ -102,4 +102,4 @@ El programa debe indicar si el número introducido por el usuario fue mayor o me
     1. Si el valor del usuario fuera igual al valor aleatorio, Mostrar "Acertaste!" Y preguntar al usuario si quiere volver a jugar.
     1. Si el jugador acepta jugar otra vez, volver al paso 1.
 
-[<p align="center"><button>**Volver al Inicio**</button></p>](../)
+[**Volver al Inicio**](/)

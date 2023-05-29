@@ -34,4 +34,4 @@ En este punto el programa ya está terminado. Ahora solo hace falta entregar el 
 
 En caso de encontrarse algún problema o si se desea hacer una nueva funcionalidad, hace falta volver a la Etapa 1, para empezar nuevamente el ciclo de desarrollo...
 
-[<p align="center"><button>**Volver al Inicio**</button></p>](../)
+[**Volver al Inicio**](/)
