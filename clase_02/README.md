@@ -1,8 +1,9 @@
 # Clase \#02 - Cómo se crea el _software_ desde cero y dónde es que la lógica encaja en ello
-
+>
 > Antes de que exista la lógica, existía un proceso... un ciclo!
 >
 > \- Jhonatan de Souza
+>
 
 ## Ciclo de Desarrollo del _Software_
 Para que podamos crear un _Software_ desde cero, vamos a seguir el siguiente ciclo, que nos ayudará a desarrollar _software_...
