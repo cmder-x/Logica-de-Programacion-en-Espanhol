@@ -6,4 +6,6 @@ Aquí voy a dejar una lista de todas las clases, y también se puede encontrar e
 * [Clase \#01](/clase_01/)
 * [Clase \#02](/clase_02/)
 * [Clase \#03](/clase_03/)
+* [Clase \#03](/clase_04/)
 * [Clase \#05](/clase_05/)
+* [Clase \#06](/clase_06/)
