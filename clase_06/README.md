@@ -70,9 +70,8 @@ Es un ejemplo de repetición usada en la lógica de programación en el desarrol
 ### Escenario \#2
 Crear un programa que recibe un número y lo incrementa en uno 10 veces.
 
-|  |  |  |
+| Valor = 10 |  |  |
 |---|---|---|
-| valor = 10
 | 1º Repetición | valor = valor + 1 | valor = 11 |
 | 2º Repetición | valor = valor + 1 | valor = 12 |
 | 3º Repetición | valor = valor + 1 | valor = 13 |
