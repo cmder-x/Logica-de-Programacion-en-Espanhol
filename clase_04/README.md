@@ -41,4 +41,5 @@ A continuación se presentarán dos problemas a los que se deberá encontrar la 
 
 Nótese que se pudieron resolver los problemas sin la necesidad de un lenguaje de programación.
 
-[**Volver al Inicio**](/)
+| [**Anterior**](/clase_03) | [**Volver al Inicio**](/) | [**Siguiente**](/clase_05) |
+|---|---|---|

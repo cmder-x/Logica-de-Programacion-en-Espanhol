@@ -35,4 +35,5 @@ En este punto el programa ya está terminado. Ahora solo hace falta entregar el 
 
 En caso de encontrarse algún problema o si se desea hacer una nueva funcionalidad, hace falta volver a la Etapa 1, para empezar nuevamente el ciclo de desarrollo...
 
-[**Volver al Inicio**](/)
+| [**Anterior**](/clase_01) | [**Volver al Inicio**](/) | [**Siguiente**](/clase_03) |
+|---|---|---|

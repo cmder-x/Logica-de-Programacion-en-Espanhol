@@ -20,4 +20,5 @@ El principal error de casi todo principiante es querer escribir código de inmed
 
     Nada más que decir sobre este escenario, es producto del esfuerzo, mientras más practiques, más resultados vas a obtener! :3
 
-[**Volver al Inicio**](/)
+| [**Anterior**](/clase_02) | [**Volver al Inicio**](/) | [**Siguiente**](/clase_04) |
+|---|---|---|

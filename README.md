@@ -3,6 +3,7 @@ Este es un curso de lógica de programación completo para principiantes, diseñ
 
 Aquí voy a dejar una lista de todas las clases, y también se puede encontrar el curso en youtube completamente gratuito, *[aquí](https://www.youtube.com/watch?v=iF2MdbrTiBM)*.
 
+### Clases Teóricas
 * [Clase \#01](/clase_01/)
 * [Clase \#02](/clase_02/)
 * [Clase \#03](/clase_03/)

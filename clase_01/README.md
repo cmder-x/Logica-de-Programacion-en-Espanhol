@@ -14,4 +14,5 @@ He aquí los dos motivos principales por los que los _softwares_ son creados...
 
 Uno de los lenguajes que lideran el mercado de **automatización** y **optimización** de procesos es **Python**, que es el lenguaje con el que se trabajará en este curso, más adelante...
 
-[**Volver al Inicio**](/)
+| [**Anterior**](./) | [**Volver al Inicio**](/) | [**Siguiente**](/clase_02) |
+|---|---|---|

@@ -102,4 +102,5 @@ El programa debe indicar si el número introducido por el usuario fue mayor o me
     1. Si el valor del usuario fuera igual al valor aleatorio, Mostrar "Acertaste!" Y preguntar al usuario si quiere volver a jugar.
     1. Si el jugador acepta jugar otra vez, volver al paso 1.
 
-[**Volver al Inicio**](/)
+| [**Anterior**](/clase_04) | [**Volver al Inicio**](/) | [**Siguiente**](/clase_06) |
+|---|---|---|

@@ -121,4 +121,5 @@ Dada una colección de datos "edades" [15, 46, 75, 34, 23], imprima en pantalla 
 
 Dominar estos 4 conceptos te permitirá crear algoritmos mucho más fácilmente.
 
-[**Volver al Inicio**](/)
+| [**Anterior**](/clase_05) | [**Volver al Inicio**](/) | [**Siguiente**](/clase_07) |
+|---|---|---|
